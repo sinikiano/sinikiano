@@ -90,7 +90,7 @@
 ## ☕ Support My Work
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/invite/sinikianod" target="_blank">
+  <a href="https://www.buymeacoffee.com/invite/sinikiano" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
   </a>
   <br>
